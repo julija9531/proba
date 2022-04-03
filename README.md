@@ -1,10 +1,11 @@
-boys = ['Peter', 'Alex', 'John', 'Arthur', 'Richard']
-girls = ['Kate', 'Liza', 'Kira', 'Emma', 'Trisha']
+# NeuroStartUp
 
-if len(boys) != len(girls):
-  print('Кто-то может остаться без пары!')
-else:
-  couples = zip(sorted(boys), sorted(girls))
-  print('Идеальные пары:')
-  for x in couples:
-    print(x[0], ' и ', x[1])
+![](https://netology-code.github.io/git-homeworks/introduction/assets/logo.png)
+
+*NeuroStartUp* — динамически развивающийся стартап, специализирующийся на поиске с использованием 
+ новейших технологий искусственного интеллекта.
+
+Наши преимущества:
+* Высокая точность поиска
+* Высокая скорость поиска
+* Низкая цена
